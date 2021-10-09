@@ -7,10 +7,11 @@ Example:
     $ python app.py
 """
 import sys
-import fire
-import questionary
 import csv
 from pathlib import Path
+
+import fire
+import questionary
 
 from qualifier.utils.fileio import load_csv
 
@@ -110,15 +111,48 @@ def save_qualifying_loans(qualifying_loans):
         qualifying_loans (list of lists): The qualifying bank loans.
     """
     # @TODO: Complete the usability dialog for savings the CSV Files.
+
+    user_wants_to_save = questionary.text("Save file?").ask()
+    if answer == "yes":
+        message == " Saving to csv file"
+    
+    
+
+    elif:
+            qualifying_loans == []
+            user_wants_to_save == True
+                if: answer == "yes"
+                    message == " Saving to csv file"
+            exit()
+            
+
+    elif:
+            qualifying_loans > [0]
+            user_wants_to_save == False
+            
+
+    elif:
+            qualifying_loans > [0]
+            questionary.text("please provide file path")
+
+
+
+
+    else:
     
     with open('data/save_csv.csv', 'w') as save_csv:
-    
-        
-        writer = csv.writer(save_csv)
+            
+                
+                writer = csv.writer(save_csv)
 
-        writer.writerow(qualifying_loans)
+                for element in range(len(qualifying_loans)):
 
-save_qualifying_loans(qualifying_loans)
+                    writer.writerow(element)
+
+    else:
+        print("Ok then bye.")
+
+
 
 
 def run():
@@ -141,3 +175,6 @@ def run():
 
 if __name__ == "__main__":
     fire.Fire(run)
+
+
+# /Users/stephenthomas/opt/anaconda3/envs/dev/lib/python3.9/site-packages
