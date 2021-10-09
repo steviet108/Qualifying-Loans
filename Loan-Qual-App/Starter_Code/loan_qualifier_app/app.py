@@ -110,37 +110,35 @@ def save_qualifying_loans(qualifying_loans):
     Args:
         qualifying_loans (list of lists): The qualifying bank loans.
     """
-    # @TODO: Complete the usability dialog for savings the CSV Files.
-
+    # gives user a chance to save to csv file
     user_wants_to_save = questionary.text("Save file?").ask()
     if answer == "yes":
         message == " Saving to csv file"
     
-    
-
-    elif:
+    # If No qualifying loans exist, when prompting a user to save file, program should notify
+    # user and Exit.
+    if:
             qualifying_loans == []
             user_wants_to_save == True
-                if: answer == "yes"
-                    message == " Saving to csv file"
+            
+                answer == "yes"
+                message == " Saving to csv file"
             exit()
             
-
+    # User has a list of qualifying loans and when prompted to save, should be able to opt out of saving file.
     elif:
             qualifying_loans > [0]
             user_wants_to_save == False
             
-
+    # User has a list of qualifying loans and when chooses to save, questionary should prompt for a file path.
     elif:
             qualifying_loans > [0]
-            questionary.text("please provide file path")
+            questionary.text("please provide file path").ask()
 
-
-
-
+    # user has a list of qualifying loans and function should save the results to a csv file.
     else:
     
-    with open('data/save_csv.csv', 'w') as save_csv:
+        with open('data/save_csv.csv', 'w') as save_csv:
             
                 
                 writer = csv.writer(save_csv)
@@ -149,8 +147,7 @@ def save_qualifying_loans(qualifying_loans):
 
                     writer.writerow(element)
 
-    else:
-        print("Ok then bye.")
+    
 
 
 
