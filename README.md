@@ -30,6 +30,9 @@ To use this Loan Qualifying Application clone the repository from Github and run
 [github](https://github.com/steviet108/Qualifying-Loans.git)
 
 
+![repo_clone](git_clone_image.png)
+
+
 ### Here is an example of the user interaction with the CLI : ###
 ---
 ```(dev) stephenthomas@steviet108eth-MacBook-Pro loan_qualifier_app % python3 app.py
