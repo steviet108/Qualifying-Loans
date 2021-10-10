@@ -11,6 +11,7 @@ This Application uses Python 3.7 with the following packages:
 ## ** Installation **
 ---
 Before running this application please install the following dependencies.
+
 ``` pip install fire ```
 ``` pip install questionary ```
 
