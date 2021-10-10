@@ -1,0 +1,973 @@
+   50  python3 app.py
+   51  conda activate dev
+   52  python3 app.py
+   53  /usr/local/bin/python3 /Users/stephenthomas/Desktop/Fintech-Workspace/cli.py
+   54  /usr/local/bin/python3 /Users/stephenthomas/Desktop/Fintech-Workspace/cli.py
+   55  /usr/local/bin/python3 /Users/stephenthomas/Desktop/Fintech-Workspace/cli.py
+   56  /usr/local/bin/python3 /Users/stephenthomas/Desktop/Fintech-Workspace/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py
+   57  pip install fire
+   58  cd ..
+   59  cd ..
+   60  cd 01_Adding_Fire_to_the_Loan_Qualifier_App
+   61  cd Unsolved
+   62  python3 app.py
+   63  /usr/local/bin/python3 /Users/stephenthomas/Desktop/Fintech-Workspace/dialog.py
+   64  cd ..
+   65  cd ..
+   66  python3 dialog.py
+   67  ls
+   68   /usr/bin/env /usr/local/bin/python3 /Users/stephenthomas/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 51688 -- "/Users/stephenthomas/Desktop/Fintech-Workspace/01_Modularize_Your_Loan_Qualifier_Application_Part_2 2/Unsolved/app.py" 
+   69   cd "/Users/stephenthomas/Desktop/Fintech-Workspace/01_Modularize_Your_Loan_Qualifier_Application_Part_2 2" ; /usr/bin/env /usr/local/bin/python3 /Users/stephenthomas/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 51729 -- "/Users/stephenthomas/Desktop/Fintech-Workspace/01_Modularize_Your_Loan_Qualifier_Application_Part_2 2/Unsolved/app.py" 
+   70  cd Unsolved
+   71  conda activate dev
+   72  python3 app.py
+   73  cd ..
+   74  cd Solved
+   75  python3 app.py
+   76  cd ..
+   77  cd Unsolved
+   78  python3 app.py
+   79  cd ..
+   80  cd ..
+   81  cd 01_Adding_Fire_to_the_Loan_Qualifier_App
+   82  cd Unsolved
+   83  python3 app.py
+   84  cd ..
+   85  cd Solved
+   86  python3 app.py
+   87  cd ..
+   88  cd ..
+   89  cd 01_Modularize_Your_Loan_Qualifier_Application
+   90  cd Solved
+   91  cd Solved
+   92  ls
+   93  cd ..
+   94  cd 01_Modularize_Your_Loan_Qualifier_Part_2
+   95  cd 01_Modularize_Your_Loan_Qualifier_Application_Part_2
+   96  cd Solved
+   97  python3 app.py
+   98  cd ..
+   99  cd Unsolved
+  100  python3 app.py
+  101  python app.py
+  102  python3 app.py
+  103  cd ..
+  104  cd Solved
+  105  python3 app.py
+  106  cd ..
+  107  cd Unsolved
+  108  python3 app.py
+  109  python3 cli.py
+  110  python3 cli.py
+  111  python3 cli.py
+  112  conda activate dev
+  113  python3 cli.py
+  114  pip install fire
+  115  import fire
+  116  python3 cli.py
+  117  python3 cli.py
+  118  pip install fire
+  119  python3 cli.py
+  120  python3 cli.py
+  121  python3 cli.py
+  122  python3 cli.py
+  123  python3 app.py
+  124  cd Unsolved
+  125  python3 app.py
+  126  cd ..
+  127  cd ..
+  128  cd 02_Loan_Qualifier_Filtering_Data
+  129  cd Unsolved
+  130  python3 app.py
+  131  cd ..
+  132  cd ..
+  133  cd 01_Modularize_Your_Loan_Qualifier_Application_Part_2
+  134  cd Unsolved
+  135  python3 app.py
+  136  python3 app.py
+  137  python3 loan_analyzer.py
+  138  python3 loan_analyzer.py
+  139  python3 loan_analyzer.py
+  140  python3 loan_analyzer.py
+  141  python3 loan_analyzer.py
+  142  python3 loan_analyzer.py
+  143  python3 loan_analyzer.py
+  144  python3 app.py
+  145  python3 app.py
+  146  python3 app.py
+  147  cd ..
+  148  cd Solved
+  149  python3 app.py
+  150  conda activate dev
+  151  python3 app.py
+  152  cd ..
+  153  cd Unsolved
+  154  python3 app.py
+  155  python3 app.py
+  156  python3 app.py
+  157  python3 app.py
+  158  python3 app.py
+  159  python3 app.py
+  160  python3 app.py
+  161  python3 app.py
+  162  cd ..
+  163  cd ..
+  164  cd challenge
+  165  cd Micro-Loan-Project
+  166  python3 loan_analyzer.py
+  167  cd ..
+  168  cd ..
+  169  cd 01_Modularize_Your_Loan_Qualifier_Application_Part_2
+  170  cd Unsolved
+  171  cd qualifier/utils
+  172  cd filters
+  173  python3 app.py
+  174  ls
+  175  cd ..
+  176  python3 app.py
+  177  cd ..
+  178  python3 app.py
+  179  pwd
+  180  ls
+  181  cd ..
+  182  python3 app.py
+  183  python3 app.py
+  184  python3 app.py
+  185  python3 app.py
+  186  python3 app.py
+  187  python3 app.py
+  188  python3 app.py
+  189  cd ..
+  190  cd Unsolved
+  191  ls
+  192  python3 app.py
+  193  python3 app.py
+  194  python3 app.py
+  195  python3 app.py
+  196  ls
+  197  cd Unsolved
+  198  conda activate dev
+  199  python3 app.py
+  200  cd Desktop
+  201  cd Fintech-Workspace
+  202  python3 cli.py
+  203  conda activate dev
+  204  python3 cli.py
+  205  python3 cli.py
+  206  python3 cli.py
+  207  python3 cli.py
+  208  python3 cli.py
+  209  python3 cli.py
+  210  python3 cli.py
+  211  python3 cli.py
+  212  python3 cli.py
+  213  python3 cli.py
+  214  python3 cli.py
+  215  python3 cli.py
+  216  python3 cli.py
+  217  python3 cli.py
+  218  python3 cli.py
+  219  python3 cli.py
+  220  python3 cli.py
+  221  python3 cli.py
+  222  python3 cli.py
+  223  python3 cli.py
+  224  python3 cli.py
+  225  python3 cli.py
+  226  python3 cli.py
+  227  python3 cli.py
+  228  python3 cli.py
+  229  python3 cli.py
+  230  cd 01_Adding_Fire_to_the_Loan_Qualifier_App
+  231  cd Unsolved
+  232  python3 app.py
+  233  python3 app.py
+  234  python3 app.py
+  235  python3 app.py --credit_score=750
+  236  pwd
+  237  python3 app.py --credit_score=350
+  238  python3 app.py --credit_score=50
+  239  python3 app.py --credit_score=50
+  240  python3 app.py --credit_score=750 --debt=3000 --income=50000
+  241  pip install questionary
+  242  cd ..
+  243  cd ..
+  244  python3 dialog.py
+  245  python3 dialog.py
+  246  python3 dialog.py
+  247  cd 02_Adding_questionary_to_Loan_Qualifier
+  248  cd Unsolved
+  249  pythone app.py
+  250  python3 app.py
+  251  python3 app.py --credit_score = 750 --debt=5000 --income=20000
+  252  ./data/daily_rate_sheet.csv
+  253  python3 app.py --credit_score=750 --debt=5000 --income=20000
+  254  python3 app.py
+  255  python3 app.py
+  256  python3 app.py
+  257  git config --global user.name Stevie Thomas
+  258  git config --global user.email stephenthomas43@gmail.com
+  259  git config --list
+  260  cd ..
+  261  cd ..
+  262  git clone https://github.com/steviet108/Fintech-Concepts.git
+  263  cd Fintech-Concepts
+  264  git status
+  265  git add README.md
+  266  git status
+  267  touch new_file.txt
+  268  git status
+  269  git add new_file.txt
+  270  git status
+  271  git commit -m "edited README and added new_file.txt"
+  272  git status
+  273  git push
+  274  git push
+  275  git push
+  276  git config --list
+  277  git status
+  278  cd ..
+  279  cd ..
+  280  cd UCB
+  281  git clone 3610b980472de9c76fb6f6e560e4d4f6545f3f35
+  282  git clone https://ucb.bootcampcontent.com/UCB-Coding-Bootcamp/ucb-virt-fin-pt-09-2021-u-b.git
+  283  ls
+  284  cd ucb-virt-fin-pt-09-2021-u-b
+  285  ls
+  286  cd Live-Lesson-Activities
+  287  ls
+  288  cd ..
+  289  jupyter lab
+  290  ls
+  291  cd Live-Lesson-Activities
+  292  jupyter lab
+  293  ls
+  294  cd ..
+  295  cd ..
+  296  cd ..
+  297  cd Fintech-Workspace
+  298  ls
+  299  cd 01_Modularize_Your_Loan_Qualifier_Application_Part_2
+  300  cd Unsolved
+  301  la
+  302  ls
+  303  python3 app.py
+  304  python3 app.py
+  305  cd ..
+  306  cd ..
+  307  cd 01_Adding_Fire_to_the_Loan_Qualifier_App
+  308  cd Unsolved
+  309  pip install fire
+  310  python3 app.py
+  311  cd ..
+  312  cd ..
+  313  pip install questionary
+  314  cd 01_Modularize_Your_Loan_Qualifier_Application_Part_2
+  315  la
+  316  ls
+  317  cd Solved
+  318  python3 app.py
+  319  cd ..
+  320  cd Unsolved
+  321  python3 app.py
+  322  pwd
+  323  cd Desktop
+  324  conda activate dev
+  325  cd Fintech-Workspace
+  326  ls
+  327  jupyter lab
+  328  conda envs --info
+  329  conda info --envs
+  330  pip install jupyterlab
+  331  conda update conda
+  332  conda update anaconda
+  333  conda actiavte base
+  334  conda activate base
+  335  conda update conda
+  336  conda activate anaconda
+  337  conda update anaconda
+  338  jupyter lab
+  339  cd Desktop
+  340  cd UCB
+  341  jupyter lab
+  342  cd ..
+  343  cd UCB
+  344  jupyter lab
+  345  cd Desktop
+  346  conda activate dev
+  347  ls
+  348  cd Weekly Challenges
+  349  cd Weekly Challenges
+  350  cd Fintech-Workspace
+  351  cd ..
+  352  cd weekly challenges
+  353  cd Weekly_Challenges
+  354  cd World of Women.png
+  355  conda deactivate dev
+  356  cd Weekly Challenges
+  357  pwd
+  358  ls
+  359  cd Portfolio
+  360  ls
+  361  cd ..
+  362  cd GitHub_Upload
+  363  cd ..
+  364  cd WeeklyChallenges
+  365  cd Weekly Challenges
+  366  conda activate base
+  367  cd Weekly Challenges
+  368  ls
+  369  cd Weekly Challenges
+  370  cd Challenges
+  371  ls
+  372  git clone https://github.com/steviet108/Qualifying-Loans.git
+  373  ls
+  374  git status
+  375  git add Qualifying-Loans
+  376  git status
+  377  pwd
+  378  cd ..
+  379  git clone https://github.com/steviet108/Qualifying-Loans.git
+  380  cd ..
+  381  conda activate dev
+  382  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+  383  echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> /Users/stephenthomas/.zprofile\n
+  384  eval "$(/opt/homebrew/bin/brew shellenv)"
+  385  brew help
+  386  brew update
+  387  conda --version
+  388  anaconda --version
+  389  conda update anaconda
+  390  conda update conda
+  391  conda init zsh
+  392  echo #{shell}
+  393  echo #{SHELL}
+  394  python -m ipykernal install --user --name dev
+  395  conda update anaconda3
+  396  pip install fire
+  397  pip install questionary
+  398  conda install -c conda-forge nodejs
+  399  pip install fire
+  400  pip install questionary
+  401  install fire
+  402  install quaestionary
+  403  cd Desktop
+  404  cd Loan-Qual-App
+  405  ls
+  406  cd Starter_Code
+  407  ls
+  408  cd loan_qualifier_app
+  409  ls
+  410  git add -A
+  411  cd ..
+  412  cd ..
+  413  cd ..
+  414  cd ..
+  415  cd ..
+  416  cd ~
+  417  ls
+  418  cd Desktop
+  419  cd Loan-Qual-App
+  420  git clone https://github.com/steviet108/Qualifying-Loans.git
+  421  git add -A
+  422  ls
+  423  cd Qualifying-Loans
+  424  git add -A
+  425  git status
+  426  git commit -m "creation of save_csv function"
+  427  git push
+  428  pip list 
+  429  pip list grep questionary
+  430  import fire
+  431  python
+  432  pip show fire
+  433  conda activate dev
+  434  pip show fire
+  435  print(sys.path)
+  436  python
+  437  conda activate dev
+  438  pip show questionary
+  439  pip show pathlib
+  440  python
+  441  conda activate dev
+  442  pip show pathlib
+  443  import pathlib
+  444  deactivate dev
+  445  conda deactivate
+  446  show pathlib
+  447  pip show pathlib
+  448  conda activate dev
+  449  pip show pathlib
+  450  pip show fire
+  451  ls
+  452  cd Desktop
+  453  cd Loan-Qual-App
+  454  ls
+  455  cd Qualifying-Loans
+  456  ls
+  457  cd Loan-Qual-App
+  458  ls
+  459  cd Starter_Code
+  460  ls
+  461  cd loan_qualifier_app
+  462  ls
+  463  python
+  464  pip show fire
+  465  conda activate dev
+  466  pip install fire
+  467  pip install questionary
+  468  conda deactivate
+  469  pip install fire
+  470  pip install questionary
+  471  conda activate dev
+  472  import fire
+  473  cd Desktop
+  474  cd Fintech-Workspace
+  475  ls
+  476  python3 cli.py
+  477  cd ..
+  478  ls
+  479  cd Loan-Qual-App
+  480  ls
+  481  cd Qualifying-Loans
+  482  ls
+  483  cd Loan-Qual-App
+  484  ls
+  485  cd Starter_Code
+  486  ls
+  487  cd loan_qualifier_app
+  488  ls
+  489  python3 app.py
+  490  python3 app.py
+  491  python3 app.py
+  492  git status
+  493  ls
+  494  git add app.py
+  495  git status
+  496  git commit -m "progress on app.py"
+  497  git status
+  498  git push
+  499  git status
+  500  git add app.py
+  501  git status
+  502  git commit -m "added sudocode to conditionals inside the save_qualifying_loans function"
+  503  git push 
+  504  ls
+  505  python3 app.py
+  506  ls
+  507  python3 app.py
+  508  python3 app.py
+  509  pwd
+  510  git status
+  511  cd ~
+  512  ls
+  513  cd Desktop
+  514  cd Loan-Qual-App
+  515  ls
+  516  ls
+  517  pwd
+  518  git clone https://github.com/steviet108/Micro-Loan-Project.git
+  519  cd ..
+  520  ls
+  521  git clone https://github.com/steviet108/Qualifying-Loans.git
+  522  conda activate dev
+  523  python3 app.py
+  524  pip install fire
+  525  python3 app.py
+  526  pip install questionary
+  527  python3 app.py
+  528  cd ..
+  529  cd ..
+  530  cd ..
+  531  cd Fintech-Workspace
+  532  cd 01_Modularize_Your_Loan_Qualifier_Application_Part_2
+  533  cd Unsolved
+  534  python3 app.py
+  535  python3 app.py
+  536  cd ..
+  537  cd ..
+  538  ls
+  539  cd 01_Modularize_Your_Loan_Qualifier_Application_Part_2
+  540  cd Unsolved
+  541  python3 app.py
+  542  cd ..
+  543  cd  ..
+  544  cd ..
+  545  ls
+  546  cd Weekly\ Challenges
+  547  ls
+  548  cd Starter_Code
+  549  ls
+  550  python3 app.py
+  551  cd ..
+  552  cd ..
+  553  python3 cli.py
+  554  python3 cli.py
+  555  python3 cli.py
+  556  conda activate dev
+  557  python3 cli.py
+  558  conda activate dev
+  559  python3 app.py
+  560  python3 app.py
+  561  python3 app.py
+  562  python3 app.py
+  563  python3 app.py
+  564  python3 app.py
+  565  python3 app.py
+  566  python3 app.py
+  567  python3 app.py
+  568  /usr/local/bin/python3 "/Users/stephenthomas/Desktop/Challenges/Starter_Code/loan_qualifier_app/qualifying_loans = [1,2,3,4,5].py"
+  569  /usr/local/bin/python3 "/Users/stephenthomas/Desktop/Challenges/Starter_Code/loan_qualifier_app/qualifying_loans = [1,2,3,4,5].py"
+  570  /usr/local/bin/python3 "/Users/stephenthomas/Desktop/Challenges/Starter_Code/loan_qualifier_app/qualifying_loans = [1,2,3,4,5].py"
+  571  /usr/local/bin/python3 /Users/stephenthomas/Desktop/Loan-Qual-App/Starter_Code/loan_qualifier_app/app.py
+  572  cd ..
+  573  cd Loan-Qual-App
+  574  ls
+  575  cd Starter-Code
+  576  cd Starter_Code
+  577  ls
+  578  cd loan_qualifier_app
+  579  ls
+  580  conda activate dev
+  581  python3 app.py
+  582  /usr/local/bin/python3 /Users/stephenthomas/Desktop/Loan-Qual-App/Starter_Code/loan_qualifier_app/app.py
+  583  /usr/local/bin/python3 "/Users/stephenthomas/Desktop/Challenges/Starter_Code/loan_qualifier_app/qualifying_loans = [1,2,3,4,5].py"
+  584  /usr/local/bin/python3 "/Users/stephenthomas/Desktop/Challenges/Starter_Code/loan_qualifier_app/qualifying_loans = [1,2,3,4,5].py"
+  585  /usr/local/bin/python3 "/Users/stephenthomas/Desktop/Challenges/Starter_Code/loan_qualifier_app/qualifying_loans = [1,2,3,4,5].py"
+  586  /usr/local/bin/python3 "/Users/stephenthomas/Desktop/Challenges/Starter_Code/loan_qualifier_app/qualifying_loans = [1,2,3,4,5].py"
+  587  /usr/local/bin/python3 "/Users/stephenthomas/Desktop/Challenges/Starter_Code/loan_qualifier_app/qualifying_loans = [1,2,3,4,5].py"
+  588  /usr/local/bin/python3 "/Users/stephenthomas/Desktop/Challenges/Starter_Code/loan_qualifier_app/qualifying_loans = [1,2,3,4,5].py"
+  589  /usr/local/bin/python3 "/Users/stephenthomas/Desktop/Weekly Challenges/Starter_Code/loan_qualifier_app/qualifying_loans = [1,2,3,4,5].py"
+  590  /usr/local/bin/python3 "/Users/stephenthomas/Desktop/Challenges/Starter_Code/loan_qualifier_app/qualifying_loans = [1,2,3,4,5].py"
+  591  cd ..
+  592  cd ..
+  593  cd ..
+  594  cd ~
+  595  cd Desktop
+  596  cd Challenges
+  597  ls
+  598  cd qualifying_loans
+  599  cd Starter_Code
+  600  ls
+  601  cd loan_qualifier_app
+  602  ls
+  603  /usr/local/bin/python3 "/Users/stephenthomas/Desktop/Challenges/Starter_Code/loan_qualifier_app/qualifying_loans = [1,2,3,4,5].py"
+  604  /usr/local/bin/python3 "/Users/stephenthomas/Desktop/Challenges/Starter_Code/loan_qualifier_app/qualifying_loans = [1,2,3,4,5].py"
+  605  /usr/local/bin/python3 "/Users/stephenthomas/Desktop/Challenges/Starter_Code/loan_qualifier_app/qualifying_loans = [1,2,3,4,5].py"
+  606  /usr/local/bin/python3 "/Users/stephenthomas/Desktop/Challenges/Starter_Code/loan_qualifier_app/qualifying_loans = [1,2,3,4,5].py"
+  607  ls
+  608  cd ..
+  609  cd ..
+  610  cd ..
+  611  cd Loan-Qual-App
+  612  ls
+  613  cd Qualifying Loans
+  614  cd Qualifying-Loans
+  615  ls
+  616  cd Loan-Qual-App
+  617  ls
+  618  cd Starter_Code
+  619  ls
+  620  cd loan_qualifier_app
+  621  ls
+  622  python3 app.py
+  623  python app.py
+  624  python3 app.py
+  625  python3 app.py
+  626   /usr/bin/env /usr/local/bin/python3 /Users/stephenthomas/.vscode/extensions/ms-python.python-2021.10.1317843341/pythonFiles/lib/python/debugpy/launcher 59531 -- /Users/stephenthomas/Desktop/Loan-Qual-App/Qualifying-Loans/Loan-Qual-App/Starter_Code/loan_qualifier_app/app.py 
+  627  cd ..
+  628  cd Loan-Qual-App
+  629  ls
+  630  cd Qualifying-Loans
+  631  ls
+  632  cd Loan-Qual-App
+  633  ls
+  634  cd Starter_Code
+  635  ls
+  636  cd loan_qualifier_app
+  637  ls
+  638  python3 app.py
+  639  cd ..
+  640  cd ..
+  641  cd ..
+  642  cd ..
+  643  cd ..
+  644  cd Fintech-Workspace
+  645  ls
+  646  cd 02_Loan_Qualifier_Filtering_Data 2
+  647  cd 02_Loan_Qualifier_Filtering_Data
+  648  ls
+  649  cd Unsolved
+  650  ls
+  651  python3 app.py
+  652  /usr/local/bin/python3 "/Users/stephenthomas/Desktop/Weekly Challenges/Starter_Code/loan_qualifier_app/qualifying_loans = [1,2,3,4,5].py"
+  653  /usr/local/bin/python3 "/Users/stephenthomas/Desktop/Weekly Challenges/Starter_Code/loan_qualifier_app/qualifying_loans = [1,2,3,4,5].py"
+  654  conda activate dev
+  655  python3 app.py
+  656  cd ..
+  657  cd ~
+  658  pwd
+  659  ls
+  660  cd Desktop
+  661  ls
+  662  cd Qualifying-Loans
+  663  ls
+  664  cd Loan-Qual-App
+  665  ls
+  666  cd Starter_Code
+  667  ls
+  668  cd loan_qualifier_app
+  669  ls
+  670  python3 app.py
+  671  ls
+  672  python3 app.py
+  673  cd Qualifying-Loans
+  674  cd Desktop
+  675  cd Loan-Qualifying-Loans
+  676  cd Qualifying-Loans
+  677  ls
+  678  cd Loan-Qual-App
+  679  ls
+  680  cd Starter_code
+  681  ls
+  682  cd loan_qualifier
+  683  cd loan_qualifier
+  684  ls
+  685  cd loan_qualifier_app
+  686  ls
+  687  python3 app.py
+  688  ls
+  689  cd ..
+  690  ls
+  691  cd ..
+  692  ls
+  693  cd ..
+  694  ls
+  695  git add README.md
+  696  git status
+  697  git commit -m "Final commit for README.md"
+  698  git push
+  699  ls
+  700  git status
+  701  git add README.md
+  702  git status
+  703  git commit "few changes made to README.md"
+  704  git status
+  705  git push
+  706  git commit -m " a few changes to README.md"
+  707  git push
+  708  git add README.md
+  709  git status
+  710  git commit -m " a few changes to refine the README.md"
+  711  git push
+  712  git status
+  713  sit add README.md
+  714  git status
+  715  git add README.md
+  716  git status
+  717  git commit -m " a few changes made"
+  718  git push
+  719  git add README.md
+  720  git status
+  721  git commit -m "few changes made"
+  722  git push
+  723  git add README.md
+  724  git status
+  725  git commit -m "few changes made"
+  726  git push
+  727  git add README.md
+  728  git status
+  729  git commit -m "few changes made"
+  730  git push
+  731  git add README.md
+  732  git status
+  733  git commit -m " few changes made"
+  734  git push
+  735  git add README.md
+  736  git commit -m "few changes made"
+  737  git push
+  738  conda activate dev
+  739  ls
+  740  cd Loan-Qual-App
+  741  ls
+  742  cd Starter_Code
+  743  ls
+  744  cd Lo
+  745  cd loan_qualifier_app
+  746  ls
+  747  python3 app.py
+  748  python3 app.py
+  749  python3 app.py
+  750  python3 app.py
+  751  python3 app.py
+  752  python3 app.py
+  753  python3 app.py
+  754  python3 app.py
+  755  python3 app.py
+  756  python3 app.py
+  757  python3 app.py
+  758  pip install fire
+  759  python3 app.py
+  760  python3 app.py
+  761  ls
+  762  python3 app.py
+  763  python3 app.py
+  764  python3 app.py
+  765  python3 app.py
+  766  cd ..
+  767  cd ..
+  768  cd ..
+  769  cd ..
+  770  cd loan_qualifier_app
+  771  ls
+  772  python3 app.py
+  773  python3 app.py
+  774  python3 app.py
+  775  python3 app.py
+  776  python3 app.py
+  777  python3 app.py
+  778  python3 app.py
+  779  python3 app.py
+  780  python3 app.py
+  781  cd ..
+  782  ls
+  783  cd Qualifying-Loans
+  784  ls
+  785  cd Loan-Qual-App
+  786  ls
+  787  cd Starter_Code
+  788  ls
+  789  cd loan_qualifier_app
+  790  ls
+  791  python3 app.py
+  792  python3 app.py
+  793  python3 app.py
+  794  pwd
+  795  ls
+  796  python3 app.py
+  797  python3 app.py
+  798  python3 app.py
+  799  python3 app.py
+  800  ls
+  801  python3 app.py
+  802  cd ~
+  803  ls
+  804  cd Desktop
+  805  ls
+  806  cd Qualifying-Loans
+  807  ls
+  808  ls
+  809  git status
+  810  git add Qualifing-Loans
+  811  git status
+  812  git add Qualifying-Loans
+  813  pwd
+  814  ls
+  815  cd Loan-Qual-App
+  816  ls
+  817  cd Starter_Code
+  818  ls
+  819  cd loan_qualifier_app
+  820  ls
+  821  git add loan_qualifier_app
+  822  git add loan_qualifier_app*
+  823  git add app.py
+  824  git status
+  825  git add loan_qualifier_app/*
+  826  git add qualifier
+  827  git status
+  828  git add data
+  829  git status
+  830  git reset HEAD data/amethyst.csv
+  831  git status
+  832  git commit -m "update to app.py and fileio.py"
+  833  git push
+  834  pwd
+  835  ls
+  836  python3 app.py
+  837  python3 app.py
+  838  git status
+  839  ls
+  840  cd ..
+  841  cd ..
+  842  ls
+  843  cd ..
+  844  ls
+  845  git add README.md
+  846  git status
+  847  git commit -m "few changes made to README.md"
+  848  git push
+  849  git status
+  850  git add README.md
+  851  git status
+  852  git commit -m "updated README.md"
+  853  git push
+  854  git add README.md
+  855  git status
+  856  git commit -m "update README.md"
+  857  git push
+  858  git add README.md
+  859  git commit -m"update to README.md"
+  860  git push
+  861  git add README.md
+  862  git commit -m "update to README.md"
+  863  git push
+  864  git add fintech-image.png
+  865  git status
+  866  gid commit -m"photo to git"
+  867  git push
+  868  git status
+  869  git commit -m "image for READEME.md to git repo"
+  870  git push
+  871  git add README.md
+  872  git commit -m "update image to README.md"
+  873  git push
+  874  ls
+  875  cd Loan-Qual-App
+  876  ls
+  877  cd Starter_Code
+  878  ls
+  879  cd loan_qualifier_app
+  880  ls
+  881  python3 app.py
+  882  python3 app.py
+  883  pwd
+  884  cd ..
+  885  cd ..
+  886  cd ..
+  887  cd Qualifying-Loans
+  888  ls
+  889  pwd
+  890  ls
+  891  git add Qualifying-Loans
+  892  git add Loan-Qual-App
+  893  git status
+  894  git commit -m "updated changes to several files in folder"
+  895  git push
+  896  cd ..
+  897  cd Qualifying-Loans
+  898  git clone https://github.com/steviet108/Qualifying-Loans.git
+  899  cd Qualifying-Loans
+  900  ls
+  901  cd Loan-Qual-App
+  902  ls
+  903  cd Starter_Code
+  904  ls
+  905  cd loan_qualifier_app
+  906  ls
+  907  cd qualifier
+  908  ls
+  909  cd ..
+  910  ls
+  911  cd ..
+  912  ls
+  913  cd loan_qualifier_app
+  914  ls
+  915  pwd
+  916  ls
+  917  cd qualifier
+  918  ls
+  919  cd utils
+  920  ls
+  921  cd ~
+  922  cd Desktop
+  923  cd GitHub_Upload
+  924  git clone https://github.com/steviet108/Qualifying-Loans.git
+  925  cd Qualifying-Loans
+  926  cd Loan-Qual-App
+  927  cd loan_qualifier_app
+  928  ls
+  929  python3 app.py
+  930  git add README.md
+  931  cd ..
+  932  ls
+  933  cd ..
+  934  ls
+  935  pwd
+  936  cd ..
+  937  cd ..
+  938  cd Qualifying-Loans
+  939  ls
+  940  git add README.md
+  941  git status
+  942  conda activate dev
+  943  cd Desktop
+  944  cd Qualifying-Loans
+  945  ls
+  946  git add README.md
+  947  git status
+  948  git commit -m "update to README.md"
+  949  git push
+  950  git add README.md
+  951  git commit -m"update to README.md"
+  952  git push
+  953  ls
+  954  git add README.md
+  955  git status
+  956  git commit -m"update README.md"
+  957  git push
+  958  ls
+  959  git add git_clone_image
+  960  git add git_clone_image.png
+  961  git status
+  962  git commit -m "image commit"
+  963  git push
+  964  ls
+  965  cd Loan-Qual-App
+  966  ls
+  967  git add git_clone_image.png
+  968  git status
+  969  git commit -m"commit image to git"
+  970  git push
+  971  git add git_clone_image.png
+  972  cd Desktop
+  973  cd Qualifying-Loans
+  974  ls
+  975  cd Loan-Qual-App
+  976  ls
+  977  git add git_clone_image.png
+  978  git status
+  979  conda activate dev
+  980  git add git_clone_image.png
+  981  git status
+  982  git push
+  983  cd ..
+  984  cd ..
+  985  cd GitHub_Upload
+  986  ls
+  987  cd Qualifying-Loans
+  988  ls
+  989  cd Loan-Qual-App
+  990  ls
+  991  cd ..
+  992  cd ..
+  993  ls
+  994  cd Qualifying-Loans
+  995  ls
+  996  git add git_clone_image.png
+  997  git status
+  998  git commit -m"commit image to git"
+  999  git push
+ 1000  git push --help
+ 1001  conda activate dev
+ 1002  cd Qualifying-Loans
+ 1003  ls
+ 1004  cd Qualifying-Loans
+ 1005  cd Qualifying-Loans
+ 1006  cd Qualifying-Loans
+ 1007  ls
+ 1008  cd Desktop
+ 1009  cd Qualifying-Loans
+ 1010  ls
+ 1011  cd Loan-Qual-App
+ 1012  ls
+ 1013  git add git_clone_image.png
+ 1014  git status
+ 1015  git commit -m"commit image to git"
+ 1016  git push --force
+ 1017  cd ..
+ 1018  history 50> terminal_history.txt
+ 1019  history 50 > terminal_history.txt
+ 1020  cd ..
+ 1021  cd Qualifying-Loans
+ 1022  history50>terminal_history.txt
