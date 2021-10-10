@@ -10,9 +10,9 @@ The user downloads the app from the GitHub Repository,(see below) and runs the a
 
 This Application uses Python 3.7 with the following packages:
 
-```fire``` - For the command line interface.
+``` fire ```          - For the command line interface.
 
-```questionary``` - For interactive user prompts and dialogs.
+``` questionary ```   - For interactive user prompts and dialogs.
 
 ---
 ##  Installation 
