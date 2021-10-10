@@ -1,6 +1,6 @@
 # *Qualifying-Loans-App*
 
-** This Loan Qualifying Application uses the CLI or Command Line Interface to match applicants with qualifying loans. It is an example of modular code that has functions in seperate files as to work more efficiently and also to enable easier maintanence **
+ This Loan Qualifying Application uses the CLI or Command Line Interface to match applicants with qualifying loans. It is an example of modular code that has functions in separate files as to work more efficiently and also to enable easier maintenance.
 
 ---
 ##  Technologies 
