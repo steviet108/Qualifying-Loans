@@ -37,7 +37,7 @@ def load_bank_data():
         The bank data from the data rate sheet CSV file.
     """
 
-    #csvpath = questionary.text("Enter a file path to a rate-sheet (.csv):").ask()
+
     csvpath = "./data/daily_rate_sheet.csv"
     csvpath = Path(csvpath)
     if not csvpath.exists():
@@ -108,6 +108,13 @@ def find_qualifying_loans(bank_data, credit_score, debt, income, loan, home_valu
 
     return bank_data_filtered
 
+# The following options have been hard coded into the save_qualifying_loans function to increase usability.
+# A. Gives user a chance to save to csv file
+# B. If No qualifying loans exist, when prompting a user to save file, program should notify
+    # user and Exit.
+# C. User has a list of qualifying loans and when prompted to save, should be able to opt out of saving file.
+# D. User has a list of qualifying loans and when chooses to save, questionary should prompt for a file path.
+# E. User has a list of qualifying loans and function should save the results to a csv file.
 
 def save_qualifying_loans(qualifying_loans):
     """Saves the qualifying loans to a CSV file.
@@ -120,14 +127,6 @@ def save_qualifying_loans(qualifying_loans):
         questionary.print("Sorry you don't qualify for any loans now, try again later.")
         return
 
-    # gives user a chance to save to csv file
-    # If No qualifying loans exist, when prompting a user to save file, program should notify
-    # user and Exit.
-    # User has a list of qualifying loans and when prompted to save, should be able to opt out of saving file.
-    # User has a list of qualifying loans and when chooses to save, questionary should prompt for a file path.
-    # user has a list of qualifying loans and function should save the results to a csv file.
-
-
     answer = questionary.confirm("Do you want to save the file?").ask()
 
     if answer is True:
@@ -139,17 +138,6 @@ def save_qualifying_loans(qualifying_loans):
         for element in range(len(qualifying_loans)):
             print(qualifying_loans[element])
     return
-
-    
-    
-    
-   
-    
-            
-             
-    
-
-
 
 
 def run():
