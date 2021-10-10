@@ -6,8 +6,10 @@
 ##  Technologies 
 
 This Application uses Python 3.7 with the following packages:
-**fire** - For the command line interface.
-**questionary** - For interactive user prompts and dialogs.
+
+*fire* - For the command line interface.
+
+*questionary* - For interactive user prompts and dialogs.
 
 ---
 ##  Installation 
@@ -25,11 +27,11 @@ To use this Loan Qualifying Application clone the repository from Github and run
 [github](https://github.com/steviet108/Qualifying-Loans.git)
 
 ---
-## ** Contributors **
+## Contributors 
 
 Stephen Thomas
 
 ---
-## ** License **
+##  License 
 
 MIT
