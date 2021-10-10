@@ -6,15 +6,19 @@ This is a command line application to match applicants with qualifying loans.
 Example:
     $ python app.py
 """
+# the following are important dependencies that help the app do what its meant to do.
 import sys
-import csv
 from pathlib import Path
 
 import fire
 import questionary
 
-from qualifier.utils.fileio import load_csv
+# the folllowing is a command to import two functions from the filio.py file, inside the utils folder,
+# inside the qualifier folder.
+from qualifier.utils.fileio import load_csv, save_csv
 
+# here is a command to import two functions, calculate_monthly_debt_ratio and calculate_loan_to_value from 
+# the calculators file, inside the utils folder, inside the qualifiers folder.
 from qualifier.utils.calculators import (
     calculate_monthly_debt_ratio,
     calculate_loan_to_value_ratio,
@@ -33,7 +37,8 @@ def load_bank_data():
         The bank data from the data rate sheet CSV file.
     """
 
-    csvpath = questionary.text("Enter a file path to a rate-sheet (.csv):").ask()
+    #csvpath = questionary.text("Enter a file path to a rate-sheet (.csv):").ask()
+    csvpath = "./data/daily_rate_sheet.csv"
     csvpath = Path(csvpath)
     if not csvpath.exists():
         sys.exit(f"Oops! Can't find this path: {csvpath}")
@@ -110,43 +115,38 @@ def save_qualifying_loans(qualifying_loans):
     Args:
         qualifying_loans (list of lists): The qualifying bank loans.
     """
+    totalLoansQualified = len(qualifying_loans)
+    if totalLoansQualified == 0:
+        questionary.print("Sorry you don't qualify for any loans now, try again later.")
+        return
+
     # gives user a chance to save to csv file
-    user_wants_to_save = questionary.text("Save file?").ask()
-    if answer == "yes":
-        message == " Saving to csv file"
-    
     # If No qualifying loans exist, when prompting a user to save file, program should notify
     # user and Exit.
-    if:
-            qualifying_loans == []
-            user_wants_to_save == True
-            
-                answer == "yes"
-                message == " Saving to csv file"
-            exit()
-            
     # User has a list of qualifying loans and when prompted to save, should be able to opt out of saving file.
-    elif:
-            qualifying_loans > [0]
-            user_wants_to_save == False
-            
     # User has a list of qualifying loans and when chooses to save, questionary should prompt for a file path.
-    elif:
-            qualifying_loans > [0]
-            questionary.text("please provide file path").ask()
-
     # user has a list of qualifying loans and function should save the results to a csv file.
+
+
+    answer = questionary.confirm("Do you want to save the file?").ask()
+
+    if answer is True:
+        fileName = questionary.text("Please enter the file name to save the loans").ask()
+        questionary.print("Your loan information is  saved in /data/" + fileName + ".csv")
+        save_csv(fileName, qualifying_loans)
     else:
+        questionary.print("You are qualified for the following loans, please note we are not saving to file this time")
+        for element in range(len(qualifying_loans)):
+            print(qualifying_loans[element])
+    return
+
     
-        with open('data/save_csv.csv', 'w') as save_csv:
+    
+    
+   
+    
             
-                
-                writer = csv.writer(save_csv)
-
-                for element in range(len(qualifying_loans)):
-
-                    writer.writerow(element)
-
+             
     
 
 
