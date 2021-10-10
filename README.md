@@ -47,6 +47,10 @@ Your loan information is  saved in /data/stevie.csv
 ## Contributors 
 
 Stephen Thomas
+[Trilogy Education Services](https://www.trilogyed.com/)
+
+[UC Berkeley Extension](https://extension.berkeley.edu/)
+
 
 ---
 ##  License 
